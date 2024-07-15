@@ -4,7 +4,7 @@ Hello, I'm Howard! I am currently a third-year Ph.D. student at Shanghai Jiao To
 
 You can find my works here: [Google Scholar Profile](https://scholar.google.com/citations?user=gRb1K7AAAAAJ\&hl).
 
-This is my personal website: [Hongwei Jiang's Page](https://yuuko-kurisu.github.io/kurisu.github.io).
+This is my personal website: [Hongwei Jiang's Page](https://yuuko-kurisu.github.io).
 
 
 You are welcome to reach me through email :e-mail:: <hongweijiang@sjtu.edu.cn>
